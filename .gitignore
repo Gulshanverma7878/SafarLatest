@@ -1,12 +1,3 @@
-# node_modules
-/logs/
-
-# local env files
-.env
-.env*.local
 
 
-/config/
-/config/
-/uploads/
-./uploads/
+/node_modules/
